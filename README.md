@@ -1,2 +1,2 @@
 # auto-bot-py
-Online 7line python code automate romantic messages.
+Only 7line python code automate romantic messages.
